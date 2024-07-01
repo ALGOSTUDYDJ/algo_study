@@ -19,7 +19,7 @@
 
 
 ## 6월 3주차
-| 번호 | 이 름 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
+| 번호 | 작성자 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 복현우 | 01 | G4 | 트리 | Python | [1043.거짓말](./June_3rd/BHW_01_1043.py) | [[백준]1043.거짓말](https://www.acmicpc.net/problem/1043)|
 | 2 | 복현우 | 02 | G5 | 기하학 | Python | [11758.CCW](./June_3rd/BHW_02_11758.py) | [[백준]11758.CCW](https://www.acmicpc.net/problem/11758)|
@@ -32,7 +32,7 @@
 
 
 ## 6월 2주차
-| 번호 | 팀원 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
+| 번호 | 작성자 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 김재훈 | 01 | G5 | BFS | Python | [7569.토마토](./June_2nd/KJH_01_7569.py) | [[백준]7569.토마토](https://www.acmicpc.net/problem/7569)|
 | 2 | 강경민 | 01 | G5 | 구현 | Python | [21608.상어초등학교](./June_2nd/KKM_01_21608.py) | [[백준]21608.상어초등학교](https://www.acmicpc.net/problem/21608)|
@@ -51,7 +51,7 @@
 | 15 | 김재훈 | 05 | G5 | 트리 | Python | [1043.거짓말](./June_2nd/KJH_05_1043.py) | [[백준]1043.거짓말](https://www.acmicpc.net/problem/1043)|
 
 ## 6월 1주차
-| 번호 | 팀원 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
+| 번호 | 작성자 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 복현우 | 01 | S1 | BFS | Python | [1303.전쟁-전투](./June_4th/BHW_01_1303.py) | [[백준]1303.전쟁-전투](https://www.acmicpc.net/problem/1303)|
 
@@ -60,9 +60,7 @@
 |    ![복현우](https://avatars.githubusercontent.com/u/127809940?v=4)    |    ![김재훈]    |
 | :---: | :---: |
 |    **복현우** <br/> GitHub [@Bok-hyeonu](https://github.com/Bok-hyeonu) <br/> Baekjoon [@bhw0930](https://www.acmicpc.net/user/bhw0930) <br/> solved.ac [@bhw0930](https://solved.ac/profile/bhw0930)    |    🐼 **김재훈** 🐼 <br/> GitHub  <br/> Baekjoon  <br/> solved.ac     |   
-|    ![손유진]    |    ![강경민]    |
-| :---: | :---: |
-|    **손유진** <br/> GitHub  <br/> Baekjoon  <br/> solved.ac    |    🐼 **강경민** 🐼 <br/> GitHub  <br/> Baekjoon  <br/> solved.ac     |  
+|    ![손유진]    |    ![강경민](https://avatars.githubusercontent.com/u/168958314?v=4)    |
+|    **손유진** <br/> GitHub  <br/> Baekjoon  <br/> solved.ac    |    🐼 **강경민** 🐼 <br/> GitHub [@alsals111](https://github.com/alsals111) <br/> Baekjoon [@ski03259](https://www.acmicpc.net/user/ski03259) <br/> solved.ac [@ski03259](https://solved.ac/profile/ski03259)    |  
 |    ![김해수]    |    ![이정원]    |
-| :---: | :---: |
 |    **김해수** <br/> GitHub  <br/> Baekjoon  <br/> solved.ac    |    🐼 **이정원** 🐼 <br/> GitHub  <br/> Baekjoon  <br/> solved.ac     |
