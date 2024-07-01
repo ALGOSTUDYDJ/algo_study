@@ -57,10 +57,10 @@
 
 ## Member
 
-|    ![복현우](https://avatars.githubusercontent.com/u/127809940?v=4)    |    ![김재훈]    |
+|    ![복현우](https://avatars.githubusercontent.com/u/127809940?v=4)    |    ![김재훈](https://avatars.githubusercontent.com/u/97888471?v=4)    |
 | :---: | :---: |
-|    **복현우** <br/> GitHub [@Bok-hyeonu](https://github.com/Bok-hyeonu) <br/> Baekjoon [@bhw0930](https://www.acmicpc.net/user/bhw0930) <br/> solved.ac [@bhw0930](https://solved.ac/profile/bhw0930)    |    🐼 **김재훈** 🐼 <br/> GitHub  <br/> Baekjoon  <br/> solved.ac     |   
-|    ![손유진]    |    ![강경민](https://avatars.githubusercontent.com/u/168958314?v=4)    |
-|    **손유진** <br/> GitHub  <br/> Baekjoon  <br/> solved.ac    |    🐼 **강경민** 🐼 <br/> GitHub [@alsals111](https://github.com/alsals111) <br/> Baekjoon [@ski03259](https://www.acmicpc.net/user/ski03259) <br/> solved.ac [@ski03259](https://solved.ac/profile/ski03259)    |  
+|    **복현우** <br/> GitHub [@Bok-hyeonu](https://github.com/Bok-hyeonu) <br/> Baekjoon [@bhw0930](https://www.acmicpc.net/user/bhw0930) <br/> solved.ac [@bhw0930](https://solved.ac/profile/bhw0930)    |    🐼 **김재훈** 🐼 <br/> GitHub [GarrryKim](https://github.com/GarrryKim)  <br/> Baekjoon [@kgarry](https://www.acmicpc.net/user/bhw0930) <br/> solved.ac [@kgarry](https://solved.ac/profile/kgarry)     |   
+|    ![손유진](https://avatars.githubusercontent.com/u/156387293?v=4)    |    ![강경민](https://avatars.githubusercontent.com/u/168958314?v=4)    |
+|    **손유진** <br/> GitHub [@yjjj1612](https://github.com/yjjj1612)  <br/> Baekjoon [@dldidrh1612](https://www.acmicpc.net/user/dldidrh1612) <br/> solved.ac [@dldidrh1612](https://solved.ac/profile/dldidrh1612)    |    🐼 **강경민** 🐼 <br/> GitHub [@alsals111](https://github.com/alsals111) <br/> Baekjoon [@ski03259](https://www.acmicpc.net/user/ski03259) <br/> solved.ac [@ski03259](https://solved.ac/profile/ski03259)    |  
 |    ![김해수]    |    ![이정원]    |
-|    **김해수** <br/> GitHub  <br/> Baekjoon  <br/> solved.ac    |    🐼 **이정원** 🐼 <br/> GitHub  <br/> Baekjoon  <br/> solved.ac     |
+|    **김해수** <br/> GitHub  <br/> Baekjoon [@gotnsla12](https://www.acmicpc.net/user/gotnsla12) <br/> solved.ac [@gotnsla12](https://solved.ac/profile/gotnsla12)   |    🐼 **이정원** 🐼 <br/> GitHub  <br/> Baekjoon [@jw17111](https://www.acmicpc.net/user/jw17111) <br/> solved.ac [@jw17111](https://solved.ac/profile/jw17111)  |
