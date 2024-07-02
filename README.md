@@ -3,11 +3,11 @@
 - [Member](#Member)
 
 ## 7월 1주차
-| 번호 | 작성자 | 개인 | 난이도 | 유형 | 언어 |                    풀이                    |                          참고링크                           |
-|:--:| :---: |:--:| :---: | :---: | :---: |:----------------------------------------:|:-------------------------------------------------------:|
+| 번호 | 작성자 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1  | 김재훈 | 01 | G4 | 문자열 | Python | [9935.문자열-폭발](./July_1st/KJH_01_9935.py) | [[백준]9935.문자열-폭발](https://www.acmicpc.net/problem/9935) |
-| 2  | 김재훈 | 02 | G4 | 문자열 | Python | [11404.플로이드](./July_1st/KJH_02_11404.py) | [[백준]11404.플로이드](https://www.acmicpc.net/problem/11404) |
-| 3  | 김재훈 | 03 | G4 | 문자열 | Python |  [2458.키_순서](./July_1st/KJH_03_2458.py)  |  [[백준]2458.키_순서](https://www.acmicpc.net/problem/2458)  |
+| 2  | 김재훈 | 02 | G4 | 그래프 | Python | [11404.플로이드](./July_1st/KJH_02_11404.py) | [[백준]11404.플로이드](https://www.acmicpc.net/problem/11404) |
+| 3  | 김재훈 | 03 | G4 | 그래프 | Python | [2458.키_순서](./July_1st/KJH_03_2458.py)  | [[백준]2458.키_순서](https://www.acmicpc.net/problem/2458)  |
 
 
 
@@ -62,7 +62,254 @@
 ## 6월 1주차
 | 번호 | 작성자 | 개인 | 난이도 | 유형 | 언어 | 풀이 | 참고링크 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 복현우 | 01 | S1 | BFS | Python | [1303.전쟁-전투](./June_4th/BHW_01_1303.py) | [[백준]1303.전쟁-전투](https://www.acmicpc.net/problem/1303)|
+| 1 | 복현우 | 01 | S1 | DP | Python | [11057.오르막 수](./June_1st/BHW_01_11057.py) | [[백준]11057.오르막 수](https://www.acmicpc.net/problem/11057)|
+| 2 | 김재훈 | 01 | S1 | 분할정복 | Python | [1074.Z](./June_1st/KJH_01_1074.py) | [[백준]1074.Z](https://www.acmicpc.net/problem/1074)|
+| 3 | 복현우 | 02 | S1 | DP | Python | [11052.카드 구매하기](./June_1st/BHW_02_11052.py) | [[백준]11052.카드 구매하기](https://www.acmicpc.net/problem/11052)|
+| 4 | 김재훈 | 02 | S1 | Graph | Python | [1389.케빈 베이컨의 6단계 법칙](./June_1st/KJH_02_1389.py) | [[백준]1389.케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|
+| 5 | 복현우 | 03 | S1 | 그리디 | Python | [1946.신입사원](./June_1st/BHW_03_1946.py) | [[백준]1946.신입사원](https://www.acmicpc.net/problem/1946)|
+| 6 | 김해수 | 01 | - | DFS | Python | [음료수 얼려먹기](./June_1st/KHS_01.py) | - |
+| 7 | 김해수 | 02 | S2 | DFS | Python | [1012.유기농 배추](./June_1st/KHS_02_1012.py) | [[백준]1012.유기농 배추](https://www.acmicpc.net/problem/1012)|
+| 8 | 김재훈 | 03 | S1 | 그리디 | Python | [1931.회의실](./June_1st/KJH_03_1931.py) | [[백준]1931.회의실](https://www.acmicpc.net/problem/1931)|
+| 9 | 복현우 | 04 | G4 | 그리디 | Python | [1715.카드 정렬하기](./June_1st/BHW_04_1715.py) | [[백준]1715.카드 정렬하기](https://www.acmicpc.net/problem/1715)|
+| 10 | 김재훈 | 04 | S1 | BFS | Python | [1697.숨바꼭질](./June_1st/KJH_04_1697.py) | [[백준]1697.숨바꼭질](https://www.acmicpc.net/problem/1697)|
+| 11 | 김재훈 | 05 | G5 | 문자열 | Python | [5430.AC](./June_1st/KJH_05_5430.py) | [[백준]5430.AC](https://www.acmicpc.net/problem/5430)|
+| 12 | 김해수 | 03 | - | BFS | Python | [미로 탈출](./June_1st/KHS_03.py) | - |
+| 13 | 김해수 | 04 | S2 | Graph | Python | [1260.DFS와 BFS](./June_1st/KHS_04_1260.py) | [[백준]1260.DFS와 BFS](https://www.acmicpc.net/problem/1260)|
+| 14 | 복현우 | 05 | G5 | 그리디 | Python | [1744.수 묶기](./June_1st/BHW_05_1744.py) | [[백준]1744.수 묶기](https://www.acmicpc.net/problem/1744)|
+| 15 | 김해수 | 05 | S1 | DFS | Python | [2583.안전 영역](./June_1st/KHS_05_2583.py) | [[백준]2583.안전 영역](https://www.acmicpc.net/problem/2583)|
+| 16 | 강경민 | 01 | S3 | DP | Python | [14501.퇴사](./June_1st/KKM_01_14501.py) | [[백준]14501.퇴사](https://www.acmicpc.net/problem/14501)|
+| 17 | 이정원 | 01 | S2 | 투 포인터 | Python | [30804.과일 탕후루](./June_1st/LJW_01_30804.py) | [[백준]30804.과일 탕후루](https://www.acmicpc.net/problem/30804)|
+| 18 | 이정원 | 02 | S2 | 브루트포스 | Python | [18111.마인크래프트](./June_1st/LJW_02_18111.py) | [[백준]18111.마인크래프트](https://www.acmicpc.net/problem/18111)|
+| 19 | 이정원 | 03 | S2 | 이진 탐색 | Python | [1654.랜선 자르기](./June_1st/LJW_03_1654.py) | [[백준]1654.랜선 자르기](https://www.acmicpc.net/problem/1654)|
+| 20 | 이정원 | 04 | S1 | 브루트포스 | Python | [6064.카잉 달력](./June_1st/LJW_04_6064.py) | [[백준]6064.카잉 달력](https://www.acmicpc.net/problem/6064)|
+| 21 | 이정원 | 05 | S1 | 문자열 | Python | [5525.IOIOI](./June_1st/LJW_05_5525.py) | [[백준]5525.IOIOI](https://www.acmicpc.net/problem/5525)|
+
+## 5월4, 5주차
+- 프로젝트 주간으로 인해 자율 시행
+
+## 5월 3주차
+### 5월 14일
+- HARD 난이도
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G4 | 그래프 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+| 2 | 김재훈 | Python | [[HARD]김재훈](./May_3rd/HARD_1197_KJH.py) |
+
+- EASY 난이도
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| S1 | 그래프 | [[백준]11403.경로 찾기](https://www.acmicpc.net/problem/11403)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 이정원 | Python | [[EASY]이정원](./May_3rd/EASY_11403_LJW.py) |
+| 2 | 손유진 | Python | [[EASY]손유진](./May_3rd/EASY_11403_SYJ.py) |
+| 3 | 강경민 | Python | [[EASY]강경민](./May_3rd/EASY_11403_KKM.py) |
+
+### 5월 16일
+- HARD 난이도
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G4 | 그래프 | [[백준]1647.도시 분할 계획](https://www.acmicpc.net/problem/1647)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1647_BHW.py) |
+| 2 | 김재훈 | Python | [[HARD]김재훈](./May_3rd/HARD_1647_KJH.py) |
+
+- EASY 난이도
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| S2 | 이분 탐색 | [[백준]2805.나무 자르기](https://www.acmicpc.net/problem/2805)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 손유진 | Python | [[EASY]손유진](./May_3rd/EASY_2805_SYJ.py) |
+| 2 | 강경민 | Python | [[EASY]강경민](./May_3rd/EASY_2805_KKM.py) |
+| 3 | 이정원 | Python | [[EASY]이정원](./May_3rd/EASY_2805_LJW.py) |
+
+### 5월 18일
+- HARD 난이도
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 구현 | [[백준]14891.톱니 바퀴](https://www.acmicpc.net/problem/14891)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_14891_BHW.py) |
+
+- EASY 난이도
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| S1 | DP | [[백준]10844.쉬운 계단 수](https://www.acmicpc.net/problem/10844)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 강경민 | Python | [[EASY]강경민](./May_3rd/EASY_10844_KKM.py) |
+| 2 | 이정원 | Python | [[EASY]이정원](./May_3rd/EASY_10844_LJW.py) |
+
+## 5월 2주차
+### 5월 7일
+- HARD 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | DP | [[백준]2294.동전 2](https://www.acmicpc.net/problem/2294)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_2nd/HARD_2294_BHW.py) |
+| 2 | 김재훈 | Python | [[HARD]김재훈](./May_2nd/HARD_2294_KJH.py) |
+| 3 | 김해수 | Python | [[HARD]김해수](./May_2nd/HARD_2294_KHS.py) |
+| 4 | 강경민 | Python | [[HARD]강경민](./May_2nd/HARD_2294_KKM.py) |
+| 5 | 이정원 | Python | [[HARD]이정원](./May_2nd/HARD_2294_LJW.py) |
+
+- EASY 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| S3 | DP | [[백준]14501.퇴사](https://www.acmicpc.net/problem/14501)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 손유진 | Python | [[EASY]손유진](./May_2nd/EASY_14501_SYJ.py) |
+
+### 5월 9일
+- HARD 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | DP | [[백준]2565.전깃줄](https://www.acmicpc.net/problem/2565)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_2nd/HARD_2565_BHW.py) |
+
+- EASY 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| S2 | DP | [[백준]11055.가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 이정원 | Python | [[EASY]이정원](./May_2nd/EASY_11055_LJW.py) |
+| 2 | 강경민 | Python | [[EASY]강경민](./May_2nd/EASY_11055_KKM.py) |
+
+### 5월 11일
+- HARD 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| S1 | DP | [[백준]2156.포도주 시식](https://www.acmicpc.net/problem/2156)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_2nd/HARD_2156_BHW.py) |
+| 2 | 강경민 | Python | [[HARD]강경민](./May_2nd/HARD_2156_KKM.py) |
+| 3 | 김재훈 | Python | [[HARD]김재훈](./May_2nd/HARD_2156_KJH.py) |
+
+- EASY 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| S3 | DP | [[백준]2193.이친수](https://www.acmicpc.net/problem/2193)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 김해수 | Python | [[EASY]김해수](./May_2nd/EASY_2193_KHS.py) |
+| 2 | 이정원 | Python | [[EASY]이정원](./May_2nd/EASY_2193_LJW.py) |
+| 3 | 손유진 | Python | [[EASY]손유진](./May_2nd/EASY_2193_SYJ.py) |
+
+## 4월 4주차(5월 1주차)
+### 4월 23일
+- HARD 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
+- EASY 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
+### 4월 25일
+- HARD 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
+- EASY 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
+### 4월 27일
+- HARD 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
+- EASY 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
+### 4월 30일
+- HARD 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
+- EASY 난이도
+
+| 난이도 | 유형 | 참고 링크 |
+| :---: | :---: | :---: |
+| G5 | 트리 | [[백준]1197.최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+
+| 번호 | 작성자 | 언어 | 풀이 |
+| :---: | :---: | :---: | :---: |
+| 1 | 복현우 | Python | [[HARD]복현우](./May_3rd/HARD_1197_BHW.py) |
+
 
 ## Member
 
