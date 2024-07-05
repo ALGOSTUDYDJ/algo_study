@@ -11,6 +11,7 @@
 | 4 | 김재훈 | 04 | G3 | 그래프(다익스트라) | Python | [1238.파티](./July_1st/KJH_04_1238.py)  | [[백준]1238.파티](https://www.acmicpc.net/problem/1238) |
 | 5 | 복현우 | 01 | G5 | BFS | Python | [16928.뱀과 사다리 게임](./July_1st/BHW_01_16928.py)  | [[백준]16928.뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |
 | 6 | 복현우 | 02 | S1 | 브루트포스 | Python | [6064.카잉 달력](./July_1st/BHW_02_6064.py)  | [[백준]6064.카잉 달력](https://www.acmicpc.net/problem/6064) |
+| 7 | 복현우 | 03 | G4 | DFS | Python | [14500.테트로미노](./July_1st/BHW_03_14500.py)  | [[백준]14500.테트로미노](https://www.acmicpc.net/problem/14500) |
 
 
 
