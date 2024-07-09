@@ -21,7 +21,7 @@
 |  5   | 복현우 |  01  |   G5   |          BFS          | Python | [16928.뱀과 사다리 게임](./July_1st/BHW_01_16928.py) | [[백준]16928.뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |
 |  6   | 복현우 |  02  |   S1   |      브루트포스       | Python |     [6064.카잉 달력](./July_1st/BHW_02_6064.py)      |     [[백준]6064.카잉 달력](https://www.acmicpc.net/problem/6064)      |
 |  7   | 복현우 |  03  |   G4   |          DFS          | Python |    [14500.테트로미노](./July_1st/BHW_03_14500.py)    |    [[백준]14500.테트로미노](https://www.acmicpc.net/problem/14500)    |
-|  8   | 강경민 |  01  |   S1   |          BFS          | Python |    [12761.돌다리](./July_1st/KKM_01_12761.py)    |    [[백준]12761.테트로미노](https://www.acmicpc.net/problem/12761)    |
+|  8   | 강경민 |  01  |   S1   |          BFS          | Python |    [12761.돌다리](./July_1st/KKM_01_12761.py)    |    [[백준]12761.돌다리](https://www.acmicpc.net/problem/12761)    |
 
 ## 6월 4주차
 
