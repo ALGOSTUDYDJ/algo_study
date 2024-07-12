@@ -15,6 +15,7 @@
 | 6  | 김재훈 | 03 | G3  | DP, BFS | Python | [20303.할로윈의 양아치](./July_2nd/KJH_03_20303.py)  | [[백준]20303.할로윈의 양아치](https://www.acmicpc.net/problem/20303)  |
 | 7  | 김재훈 | 04 | G5  |  투포인터   | Python |     [2467.용액](./July_2nd/KJH_04_2467.py)      |     [[백준]2467.용액](https://www.acmicpc.net/problem/2467)      |
 | 8  | 김재훈 | 05 | G5  |   기하학   | Python |  [2166.다각형의 면적](./July_2nd/KJH_02_16724.py)   |   [[백준]2166.다각형의 면적](https://www.acmicpc.net/problem/2166)   |
+| 9  | 복현우 | 03 | G3  | DP, BFS | Python | [20303.할로윈의 양아치](./July_2nd/BHW_03_20303.py)  | [[백준]20303.할로윈의 양아치](https://www.acmicpc.net/problem/20303)  |
 
 ## 7월 1주차
 
