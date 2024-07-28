@@ -12,7 +12,7 @@
 |  3   | 복현우 |  03  |   G4   |  LCS   | Python |    [9252.LCS 2](./July_4th/BHW_03_9252.py)    |    [[백준]9252.LCS 2](https://www.acmicpc.net/problem/9252)    |
 |  4   | 김재훈 |  01  |   Lv. 1   |  정렬   | JavaScript |    [과일 장수](./July_4th/KJH_01_P_135808.js)    |    [[프로그래머스]과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)    |
 |  4   | 김재훈 |  02  |   Lv. 0   |  문자열   | JavaScript |    [문자열 겹쳐쓰기](./July_4th/KJH_02_P_181943.py)    |    [[프로그래머스]문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)    |
-|  4   | 김재훈 |  02  |   Lv. 0   |  정렬   | JavaScript |    [대소문자 바꿔서 출력하기](./July_4th/KJH_03_P_181949.py)    |    [프로그래머스]문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)    |
+|  4   | 김재훈 |  02  |   Lv. 0   |  정렬   | JavaScript |    [대소문자 바꿔서 출력하기](./July_4th/KJH_03_P_181949.py)    |    [[프로그래머스]대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)  |
 
 ## 7월 3주차
 
