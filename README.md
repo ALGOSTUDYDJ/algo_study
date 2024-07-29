@@ -5,14 +5,17 @@
 
 ## 7월 4주차
 
-| 번호 | 작성자 | 개인 | 난이도 |  유형  |  언어  |                     풀이                      |                            참고링크                            |
-| :--: | :----: | :--: | :----: | :----: | :----: | :-------------------------------------------: | :------------------------------------------------------------: |
-|  1   | 복현우 |  01  |   G4   | 그래프 | Python | [11404.플로이드](./July_4th/BHW_01_11404.py)  | [[백준]11404.플로이드](https://www.acmicpc.net/problem/11404)  |
-|  2   | 복현우 |  02  |   G5   | 조합론 | Python | [1722.순열의 순서](./July_4th/BHW_02_1722.py) | [[백준]1722.순열의 순서](https://www.acmicpc.net/problem/1722) |
-|  3   | 복현우 |  03  |   G4   |  LCS   | Python |    [9252.LCS 2](./July_4th/BHW_03_9252.py)    |    [[백준]9252.LCS 2](https://www.acmicpc.net/problem/9252)    |
-|  4   | 김재훈 |  01  |   Lv. 1   |  정렬   | JavaScript |    [과일 장수](./July_4th/KJH_01_P_135808.js)    |    [[프로그래머스]과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)    |
-|  4   | 김재훈 |  02  |   Lv. 0   |  문자열   | JavaScript |    [문자열 겹쳐쓰기](./July_4th/KJH_02_P_181943.py)    |    [[프로그래머스]문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)    |
-|  4   | 김재훈 |  02  |   Lv. 0   |  정렬   | JavaScript |    [대소문자 바꿔서 출력하기](./July_4th/KJH_03_P_181949.py)    |    [[프로그래머스]대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)  |
+| 번호 | 작성자 | 개인 | 난이도 |  유형  |    언어    |                           풀이                            |                                                  참고링크                                                  |
+| :--: | :----: | :--: | :----: | :----: | :--------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|  1   | 복현우 |  01  |   G4   | 그래프 |   Python   |       [11404.플로이드](./July_4th/BHW_01_11404.py)        |                       [[백준]11404.플로이드](https://www.acmicpc.net/problem/11404)                        |
+|  2   | 복현우 |  02  |   G5   | 조합론 |   Python   |       [1722.순열의 순서](./July_4th/BHW_02_1722.py)       |                       [[백준]1722.순열의 순서](https://www.acmicpc.net/problem/1722)                       |
+|  3   | 복현우 |  03  |   G4   |  LCS   |   Python   |          [9252.LCS 2](./July_4th/BHW_03_9252.py)          |                          [[백준]9252.LCS 2](https://www.acmicpc.net/problem/9252)                          |
+|  4   | 김재훈 |  01  | Lv. 1  |  정렬  | JavaScript |        [과일 장수](./July_4th/KJH_01_P_135808.js)         |         [[프로그래머스]과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)         |
+|  5   | 김재훈 |  02  | Lv. 0  | 문자열 | JavaScript |     [문자열 겹쳐쓰기](./July_4th/KJH_02_P_181943.py)      |     [[프로그래머스]문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)      |
+|  6   | 김재훈 |  02  | Lv. 0  |  정렬  | JavaScript | [대소문자 바꿔서 출력하기](./July_4th/KJH_03_P_181949.py) | [[프로그래머스]대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) |
+|  7   | 이정원 |  01  |   S2   |  dfs   |   Python   |       [9461.파도반 수열](./July_4th/LJW_01_9461.py)       |                       [[백준]9461.파도반 수열](https://www.acmicpc.net/problem/9461)                       |
+|  8   | 이정원 |  02  |   S4   |   DP   |   Python   |        [11047.동전 0](./July_4th/LJW_02_11047.py)         |                        [[백준]11047. 동전 0](https://www.acmicpc.net/problem/11047)                        |
+|  9   | 이정원 |  03  |   S4   |   DP   |   Python   |    [17219. 비밀번호 찾기](./July_4th/LJW_03_17219.py)     |                    [[백준]17219. 비밀번호 찾기](https://www.acmicpc.net/problem/17219)                     |
 
 ## 7월 3주차
 
