@@ -12,6 +12,7 @@
 |  3   | 복현우 |  03  |   G3   |  그래프   | Python |  [17471.게리맨더링](./August/BHW_03_17471.py)   |  [[백준]17471.게리맨더링](https://www.acmicpc.net/problem/17471)   |
 |  4   | 복현우 |  04  |   G4   | 두 포인터 | Python |     [1806.부분합](./August/BHW_04_1806.py)      |     [[백준]1806.부분합](https://www.acmicpc.net/problem/1806)      |
 |  5   | 복현우 |  05  |   G3   | 두 포인터 | Python | [1644.소수의 연속 합](./August/BHW_05_1644.py)  | [[백준]1644.소수의 연속 합](https://www.acmicpc.net/problem/1644)  |
+|  6   | 복현우 |  06  |   G4   | 백트래킹  | Python |     [2239.스도쿠](./August/BHW_06_2239.py)      |     [[백준]2239.스도쿠](https://www.acmicpc.net/problem/2239)      |
 
 ## 7월 4주차
 
