@@ -18,7 +18,7 @@ N, M = map(int, input().split()) # 문제의 수, 정보의 수
 degree = [0]*(N + 1)              # 어려운 문제를 풀기 위해 풀어야 하는 문제 수
 graph = [[] for _ in range(N + 1)]
 answer = []     # 문제 풀이
-hq = []         # 문제 큐
+hq = []         # 문제 우선순위 큐
 
 for _ in range(M):
   easy, hard = map(int, input().split())
