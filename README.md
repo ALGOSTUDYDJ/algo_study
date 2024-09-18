@@ -15,6 +15,8 @@
 |  6   | 복현우 |  06  |   G1   | 이진 탐색 | Python |     [1300.K번째 수](./September/BHW_06_1300.py)     |     [[백준]1300.K번째 수](https://www.acmicpc.net/problem/1300)     |
 |  7   | 복현우 |  07  |   G3   |    DP     | Python | [11049.행렬 곱셈 순서](./September/BHW_07_11049.py) | [[백준]11049.행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) |
 |  8   | 복현우 |  08  |   G2   | 위상 정렬 | Python |      [1766.문제집](./September/BHW_08_1766.py)      |      [[백준]1766.문제집](https://www.acmicpc.net/problem/1766)      |
+|  9   | 복현우 |  09  |   G2   |  정수론   | Python |      [1033.칵테일](./September/BHW_09_1033.py)      |      [[백준]1033.칵테일](https://www.acmicpc.net/problem/1033)      |
+|  10  | 복현우 |  10  |   G1   |  정수론   | Python | [11689.GCD(n, k) = 1](./September/BHW_10_11689.py)  | [[백준]11689.GCD(n, k) = 1](https://www.acmicpc.net/problem/11689)  |
 
 ## 8월
 
